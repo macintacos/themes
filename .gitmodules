@@ -1,3 +1,6 @@
 [submodule "attila"]
 	path = attila
 	url = https://macintacos@github.com/macintacos/attila.git
+[submodule "casper"]
+	path = casper
+	url = https://macintacos@github.com/macintacos/Casper.git
